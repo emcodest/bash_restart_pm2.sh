@@ -5,3 +5,4 @@ This bash script will restart all pm2 process and hopefully free memory from you
 
 - sudo nano script.sh and paste the content of this script. Save it
 - chmod +x script.sh to make it executable
+- ./script.sh to run it
